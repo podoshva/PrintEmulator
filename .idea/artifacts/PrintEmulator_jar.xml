@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrintEmulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrintEmulator_jar</output-path>
+    <root id="archive" name="PrintEmulator.jar">
+      <element id="module-output" name="PrintEmulator" />
+    </root>
+  </artifact>
+</component>
